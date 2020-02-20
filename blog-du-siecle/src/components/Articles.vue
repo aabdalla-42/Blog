@@ -5,6 +5,13 @@
         <Article :article='article' />
     </div>    
 </div>
+<div>
+    <carousel>
+        <carousel-slide>
+            
+        </carousel-slide>
+    </carousel>
+</div>
 </template>
 <script>
 import Article from "./Article";
